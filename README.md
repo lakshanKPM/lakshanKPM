@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshankpm&label=Profile%20views&color=0e75b6&style=flat" alt="lakshankpm" /> </p>
 
-- 🌱 I'm an Undergraduate at **UCSC & SLIATE**
+- 🌱 I'm an Undergraduate at **UCSC**
 
 - 💬 Ask me about **Web Development**
 
